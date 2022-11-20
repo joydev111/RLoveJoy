@@ -1,0 +1,75 @@
+.MainContainor{
+    align-items: center;
+    margin-left: 370px;
+    margin-top: 150px;
+    background-color: rgb(245, 148, 192);
+    width: 1068px;
+    height: 719px;
+    border: 2px solid rgb(81, 0, 255);
+}
+.FirstImage{
+    width: 500px;
+    height: 450px;
+    border: 2px solid rgb(81, 0, 255);
+    margin-left: 20px;
+margin-top: 20px;
+}
+.SecondImage{
+    width: 238px;
+    height: 211px;
+    margin-left: 20px;
+    border: 2px solid rgb(81, 0, 255);
+}
+.ThirdImage{
+    width: 238px;
+    height: 211px;
+    margin-left: 20px;
+    border: 2px solid rgb(81, 0, 255);
+}
+.FourthImage{
+    width: 238px;
+    height: 211px;
+   margin-left: 20px;
+    margin-top: 18px;
+    border: 2px solid rgb(81, 0, 255);
+}
+.FifthImage{
+    width: 238px;
+    height: 211px;
+    margin-left: 20px;
+    margin-top: 18px;
+    border: 2px solid rgb(81, 0, 255);
+}
+.SixthImage{
+    width: 500px;
+    height: 200px;
+    margin-top: 18px;
+    margin-left: 20px;
+    border: 2px solid rgb(81, 0, 255);
+}
+.SeventhImage{
+    width: 500px;
+    height: 200px;
+   margin-left: 20px;
+    margin-top: 18px;
+    border: 2px solid rgb(81, 0, 255);
+}
+.mainOne{
+    display: flex;
+}
+.FirstImg{
+   
+}
+.ParentOne{
+    display: flex;
+}
+.ParentTwo{
+    display: flex;
+}
+.MainTwo{
+    display: flex;
+    
+}
+.FourImagecontainer{
+ margin-top: 20px;
+}
